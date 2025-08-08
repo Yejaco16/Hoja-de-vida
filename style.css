@@ -1,14 +1,14 @@
 
 :root {
-    --primary-color: #007bff; 
-    --secondary-color: #6c757d;
-    --background-light: #8ec1f3; 
-    --background-dark: #343a40; 
-    --text-color: #333; 
+    --primary-color: #050505; 
+    --secondary-color: #2c2c2c;
+    --background-light: #3f3d3d; 
+    --background-dark: #484a4d; 
+    --text-color: #0e0d0d; 
     --heading-color: #212529; 
     --card-background: #ffffff; 
     --border-color: #dee2e6; 
-    --shadow-light: rgba(0, 0, 0, 0.1);
+    --shadow-light: rgba(53, 51, 51, 0.1);
 }
 
 body {
